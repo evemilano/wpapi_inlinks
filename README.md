@@ -16,9 +16,8 @@ This Python script performs topic clustering and interlinking analysis for WordP
 - Generates an HTML interlinking report with suggestions for improving internal linking.
 
 ## Prerequisites
-
-# Ensure you have Python 3.7 or later installed.
-# Install required Python libraries:
+- Ensure you have Python 3.7 or later installed.
+- Install required Python libraries:
 pip install os requests json urllib bs4 nltk spacy bertopic sentence-transformers plotly networkx pandas
 
 # Download additional data for NLTK and spaCy:
